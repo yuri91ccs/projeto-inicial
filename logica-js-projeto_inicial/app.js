@@ -8,4 +8,4 @@ chute = prompt ('Digite um número de 1 a 10.')
 if (chute == numeroSecreto) {
     alert ('Acertou!')
 } 
-else (alert ('Você errou o numero secreto. Tente novamente.'))
+else (alert ('Você errou. Tente novamente.'))
